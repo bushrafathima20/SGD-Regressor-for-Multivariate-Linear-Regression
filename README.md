@@ -8,22 +8,25 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Load the dataset and separate input and output variables.
 
+2. Split the data into training and testing sets.
+
+3. Train the linear regression model using the training data.
+
+4. Predict the output for the test data and evaluate the results.
 ## Program:
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: 
-RegisterNumber:  
+Developed by: BUSHRA FATHIMA I
+RegisterNumber: 212225040051
 */
 ```
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
+<img width="380" height="49" alt="Screenshot 2026-04-27 143549" src="https://github.com/user-attachments/assets/abdb72fa-7762-46a2-83ff-efdbb7c40aa6" />
+<img width="426" height="79" alt="Screenshot 2026-04-27 143606" src="https://github.com/user-attachments/assets/cee2f9c1-46f9-4ac3-b57d-7f7212545c0e" />
 
 
 ## Result:
