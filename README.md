@@ -57,7 +57,7 @@ print("Predicted Occupants:", round(pred_occ[0]))
 
 ## Output:
 <img width="380" height="50" alt="image" src="https://github.com/user-attachments/assets/4a500ec9-1904-4e58-8ca9-822c1e5960ab" />
-<img width="1307" height="216" alt="Screenshot 2026-04-27 144528" src="https://github.com/user-attachments/assets/38e5cbd1-14a0-41f8-b761-669a03635658" />
+<img width="414" height="58" alt="Screenshot 2026-04-27 144710" src="https://github.com/user-attachments/assets/6e878610-b027-4f12-bead-28b0b381b954" />
 
 
 ## Result:
