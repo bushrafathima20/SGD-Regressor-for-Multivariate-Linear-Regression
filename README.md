@@ -22,7 +22,6 @@ Program to implement the multivariate linear regression model for predicting the
 Developed by: BUSHRA FATHIMA I
 RegisterNumber: 212225040051
 */
-
 import pandas as pd
 from sklearn.linear_model import SGDRegressor
 from sklearn.preprocessing import StandardScaler
